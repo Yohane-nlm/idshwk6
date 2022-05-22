@@ -1,0 +1,1210 @@
+1. date and time
+Sun 22 May 2022 12:09:26 AM PDT
+
+2. os version
+OS:Ubuntu 20.04.4 LTS \n \l
+Kernel:Linux ubuntu 5.13.0-35-generic #40~20.04.1-Ubuntu SMP Mon Mar 7 09:18:32 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+3.hardware info
+cpu info:
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 23
+model           : 96
+model name      : AMD Ryzen 5 4600H with Radeon Graphics
+stepping        : 1
+microcode       : 0x8600104
+cpu MHz         : 2994.378
+cache size      : 512 KB
+physical id     : 0
+siblings        : 1
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 16
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl tsc_reliable nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves clzero wbnoinvd arat umip rdpid overflow_recov succor
+bugs            : fxsave_leak sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips        : 5988.75
+TLB size        : 3072 4K pages
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 45 bits physical, 48 bits virtual
+power management:
+
+processor       : 1
+vendor_id       : AuthenticAMD
+cpu family      : 23
+model           : 96
+model name      : AMD Ryzen 5 4600H with Radeon Graphics
+stepping        : 1
+microcode       : 0x8600104
+cpu MHz         : 2994.378
+cache size      : 512 KB
+physical id     : 2
+siblings        : 1
+core id         : 0
+cpu cores       : 1
+apicid          : 2
+initial apicid  : 2
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 16
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl tsc_reliable nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves clzero wbnoinvd arat umip rdpid overflow_recov succor
+bugs            : fxsave_leak sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass
+bogomips        : 5988.75
+TLB size        : 3072 4K pages
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 45 bits physical, 48 bits virtual
+power management:
+
+meninfo:
+MemTotal:        3982664 kB
+MemFree:          210268 kB
+MemAvailable:    1496124 kB
+Buffers:           38164 kB
+Cached:          1417752 kB
+SwapCached:        17540 kB
+Active:           825332 kB
+Inactive:        2186312 kB
+Active(anon):     199908 kB
+Inactive(anon):  1407408 kB
+Active(file):     625424 kB
+Inactive(file):   778904 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:        945416 kB
+SwapFree:         579392 kB
+Dirty:             48252 kB
+Writeback:             0 kB
+AnonPages:       1544360 kB
+Mapped:           344460 kB
+Shmem:             51588 kB
+KReclaimable:     170268 kB
+Slab:             271852 kB
+SReclaimable:     170268 kB
+SUnreclaim:       101584 kB
+KernelStack:       13852 kB
+PageTables:        30952 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     2936748 kB
+Committed_AS:    4895064 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       84088 kB
+VmallocChunk:          0 kB
+Percpu:           109056 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      399168 kB
+DirectMap2M:     3794944 kB
+DirectMap1G:     2097152 kB
+
+disk info:
+Disk /dev/sda: 20 GiB, 21474836480 bytes, 41943040 sectors
+Disk model: VMware Virtual S
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x3454a936
+
+Device     Boot   Start      End  Sectors  Size Id Type
+/dev/sda1  *       2048  1050623  1048576  512M  b W95 FAT32
+/dev/sda2       1052670 41940991 40888322 19.5G  5 Extended
+/dev/sda5       1052672 41940991 40888320 19.5G 83 Linux
+
+4.uptime
+ 00:14:21 up 1 day, 10:53,  1 user,  load average: 0.33, 0.66, 0.37
+
+5.services info
+[ + ]  acpid
+ [ - ]  alsa-utils
+ [ + ]  anacron
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ - ]  gdomap
+ [ - ]  grub-common
+ [ + ]  haveged
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  network-manager
+ [ + ]  open-vm-tools
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  pulseaudio-enable-autospawn
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ + ]  sddm
+ [ + ]  snort
+ [ - ]  spice-vdagent
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  whoopsie
+ [ - ]  x11-common
+
+6.nic info
+ens33: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.146.139  netmask 255.255.255.0  broadcast 192.168.146.255
+        inet6 fe80::a98e:23f0:cffe:9766  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:46:fc:c9  txqueuelen 1000  (Ethernet)
+        RX packets 554997  bytes 790914318 (790.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 208383  bytes 15637698 (15.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 6526  bytes 693230 (693.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6526  bytes 693230 (693.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+7. route info
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         192.168.146.2   0.0.0.0         UG        0 0          0 ens33
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 ens33
+192.168.146.0   0.0.0.0         255.255.255.0   U         0 0          0 ens33
+
+8. arp info
+_gateway (192.168.146.2) at 00:50:56:ed:41:97 [ether] on ens33
+? (192.168.146.254) at 00:50:56:e0:2f:33 [ether] on ens33
+   
+
+9. info of processes
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2 170504 10336 ?        -    May20   0:09 /sbin/init auto noprompt
+root           -  0.0    -      -     - -        Ss   May20   0:09 -
+root           2  0.0  0.0      0     0 ?        -    May20   0:00 [kthreadd]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root           3  0.0  0.0      0     0 ?        -    May20   0:00 [rcu_gp]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root           4  0.0  0.0      0     0 ?        -    May20   0:00 [rcu_par_gp]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root           6  0.0  0.0      0     0 ?        -    May20   0:00 [kworker/0:0H-events_highpri]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root           9  0.0  0.0      0     0 ?        -    May20   0:00 [mm_percpu_wq]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          10  0.0  0.0      0     0 ?        -    May20   0:00 [rcu_tasks_rude_]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          11  0.0  0.0      0     0 ?        -    May20   0:00 [rcu_tasks_trace]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          12  0.0  0.0      0     0 ?        -    May20   0:01 [ksoftirqd/0]
+root           -  0.0    -      -     - -        S    May20   0:01 -
+root          13  0.0  0.0      0     0 ?        -    May20   0:07 [rcu_sched]
+root           -  0.0    -      -     - -        I    May20   0:07 -
+root          14  0.0  0.0      0     0 ?        -    May20   0:00 [migration/0]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          15  0.0  0.0      0     0 ?        -    May20   0:00 [idle_inject/0]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          16  0.0  0.0      0     0 ?        -    May20   0:00 [cpuhp/0]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          17  0.0  0.0      0     0 ?        -    May20   0:00 [cpuhp/1]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          18  0.0  0.0      0     0 ?        -    May20   0:00 [idle_inject/1]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          19  0.0  0.0      0     0 ?        -    May20   0:00 [migration/1]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          20  0.0  0.0      0     0 ?        -    May20   0:02 [ksoftirqd/1]
+root           -  0.0    -      -     - -        S    May20   0:02 -
+root          22  0.0  0.0      0     0 ?        -    May20   0:00 [kworker/1:0H-events_highpri]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          23  0.0  0.0      0     0 ?        -    May20   0:00 [kdevtmpfs]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          24  0.0  0.0      0     0 ?        -    May20   0:00 [netns]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          25  0.0  0.0      0     0 ?        -    May20   0:00 [inet_frag_wq]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          26  0.0  0.0      0     0 ?        -    May20   0:00 [kauditd]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          28  0.0  0.0      0     0 ?        -    May20   0:00 [khungtaskd]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          29  0.0  0.0      0     0 ?        -    May20   0:00 [oom_reaper]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          30  0.0  0.0      0     0 ?        -    May20   0:00 [writeback]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          31  0.0  0.0      0     0 ?        -    May20   0:06 [kcompactd0]
+root           -  0.0    -      -     - -        S    May20   0:06 -
+root          32  0.0  0.0      0     0 ?        -    May20   0:00 [ksmd]
+root           -  0.0    -      -     - -        SN   May20   0:00 -
+root          33  0.0  0.0      0     0 ?        -    May20   0:00 [khugepaged]
+root           -  0.0    -      -     - -        SN   May20   0:00 -
+root          80  0.0  0.0      0     0 ?        -    May20   0:00 [kintegrityd]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          81  0.0  0.0      0     0 ?        -    May20   0:00 [kblockd]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          82  0.0  0.0      0     0 ?        -    May20   0:00 [blkcg_punt_bio]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          83  0.0  0.0      0     0 ?        -    May20   0:00 [tpm_dev_wq]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          84  0.0  0.0      0     0 ?        -    May20   0:00 [ata_sff]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          85  0.0  0.0      0     0 ?        -    May20   0:00 [md]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          86  0.0  0.0      0     0 ?        -    May20   0:00 [edac-poller]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          87  0.0  0.0      0     0 ?        -    May20   0:00 [devfreq_wq]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          88  0.0  0.0      0     0 ?        -    May20   0:00 [watchdogd]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          90  0.0  0.0      0     0 ?        -    May20   0:03 [kworker/1:1H-kblockd]
+root           -  0.0    -      -     - -        I<   May20   0:03 -
+root          92  0.0  0.0      0     0 ?        -    May20   0:07 [kswapd0]
+root           -  0.0    -      -     - -        S    May20   0:07 -
+root          93  0.0  0.0      0     0 ?        -    May20   0:00 [ecryptfs-kthrea]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          95  0.0  0.0      0     0 ?        -    May20   0:00 [kthrotld]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root          96  0.0  0.0      0     0 ?        -    May20   0:00 [irq/24-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          97  0.0  0.0      0     0 ?        -    May20   0:00 [irq/25-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          98  0.0  0.0      0     0 ?        -    May20   0:00 [irq/26-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root          99  0.0  0.0      0     0 ?        -    May20   0:00 [irq/27-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         100  0.0  0.0      0     0 ?        -    May20   0:00 [irq/28-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         101  0.0  0.0      0     0 ?        -    May20   0:00 [irq/29-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         102  0.0  0.0      0     0 ?        -    May20   0:00 [irq/30-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         103  0.0  0.0      0     0 ?        -    May20   0:00 [irq/31-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         104  0.0  0.0      0     0 ?        -    May20   0:00 [irq/32-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         105  0.0  0.0      0     0 ?        -    May20   0:00 [irq/33-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         106  0.0  0.0      0     0 ?        -    May20   0:00 [irq/34-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         107  0.0  0.0      0     0 ?        -    May20   0:00 [irq/35-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         108  0.0  0.0      0     0 ?        -    May20   0:00 [irq/36-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         109  0.0  0.0      0     0 ?        -    May20   0:00 [irq/37-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         110  0.0  0.0      0     0 ?        -    May20   0:00 [irq/38-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         111  0.0  0.0      0     0 ?        -    May20   0:00 [irq/39-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         112  0.0  0.0      0     0 ?        -    May20   0:00 [irq/40-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         113  0.0  0.0      0     0 ?        -    May20   0:00 [irq/41-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         114  0.0  0.0      0     0 ?        -    May20   0:00 [irq/42-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         115  0.0  0.0      0     0 ?        -    May20   0:00 [irq/43-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         116  0.0  0.0      0     0 ?        -    May20   0:00 [irq/44-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         117  0.0  0.0      0     0 ?        -    May20   0:00 [irq/45-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         118  0.0  0.0      0     0 ?        -    May20   0:00 [irq/46-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         119  0.0  0.0      0     0 ?        -    May20   0:00 [irq/47-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         120  0.0  0.0      0     0 ?        -    May20   0:00 [irq/48-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         121  0.0  0.0      0     0 ?        -    May20   0:00 [irq/49-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         122  0.0  0.0      0     0 ?        -    May20   0:00 [irq/50-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         123  0.0  0.0      0     0 ?        -    May20   0:00 [irq/51-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         124  0.0  0.0      0     0 ?        -    May20   0:00 [irq/52-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         125  0.0  0.0      0     0 ?        -    May20   0:00 [irq/53-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         126  0.0  0.0      0     0 ?        -    May20   0:00 [irq/54-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         127  0.0  0.0      0     0 ?        -    May20   0:00 [irq/55-pciehp]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         128  0.0  0.0      0     0 ?        -    May20   0:00 [acpi_thermal_pm]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         131  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_0]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         132  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_0]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         133  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_1]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         134  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_1]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         135  0.0  0.0      0     0 ?        -    May20   0:00 [vfio-irqfd-clea]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         137  0.0  0.0      0     0 ?        -    May20   0:00 [mld]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         138  0.0  0.0      0     0 ?        -    May20   0:00 [ipv6_addrconf]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         147  0.0  0.0      0     0 ?        -    May20   0:00 [kstrp]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         150  0.0  0.0      0     0 ?        -    May20   0:00 [zswap-shrink]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         151  0.0  0.0      0     0 ?        -    May20   0:00 [kworker/u257:0-hci0]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         156  0.0  0.0      0     0 ?        -    May20   0:00 [charger_manager]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         180  0.0  0.0      0     0 ?        -    May20   0:03 [kworker/0:1H-kblockd]
+root           -  0.0    -      -     - -        I<   May20   0:03 -
+root         203  0.0  0.0      0     0 ?        -    May20   0:00 [mpt_poll_0]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         204  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_2]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         205  0.0  0.0      0     0 ?        -    May20   0:00 [mpt/0]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         206  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_2]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         207  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_3]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         208  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_3]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         209  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_4]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         210  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_4]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         211  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_5]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         212  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_5]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         213  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_6]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         214  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_6]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         215  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_7]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         216  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_7]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         217  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_8]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         218  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_8]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         219  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_9]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         220  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_9]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         221  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_10]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         222  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_10]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         223  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_11]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         224  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_11]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         225  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_12]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         226  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_12]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         227  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_13]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         228  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_13]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         229  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_14]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         230  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_14]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         231  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_15]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         232  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_15]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         233  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_16]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         234  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_16]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         235  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_17]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         236  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_17]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         237  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_18]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         238  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_18]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         239  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_19]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         240  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_19]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         241  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_20]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         242  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_20]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         243  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_21]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         244  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_21]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         245  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_22]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         246  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_22]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         247  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_23]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         248  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_23]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         249  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_24]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         250  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_24]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         251  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_25]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         252  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_25]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         253  0.0  0.0      0     0 ?        -    May20   0:00 [ttm_swap]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         254  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_26]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         255  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_26]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         256  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_27]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         257  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_27]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         258  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_28]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         259  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_28]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         260  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_29]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         261  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_29]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         262  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_30]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         263  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_30]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         264  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_31]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         265  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_31]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         266  0.0  0.0      0     0 ?        -    May20   0:04 [irq/16-vmwgfx]
+root           -  0.0    -      -     - -        S    May20   0:04 -
+root         271  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc0]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         274  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc1]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         276  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc2]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         278  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc3]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         281  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc4]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         282  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc5]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         293  0.0  0.0      0     0 ?        -    May20   0:00 [cryptd]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         294  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc6]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         303  0.0  0.0      0     0 ?        -    May20   0:00 [card0-crtc7]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         323  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_eh_32]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root         324  0.0  0.0      0     0 ?        -    May20   0:00 [scsi_tmf_32]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         365  0.0  0.0      0     0 ?        -    May20   0:03 [jbd2/sda5-8]
+root           -  0.0    -      -     - -        S    May20   0:03 -
+root         366  0.0  0.0      0     0 ?        -    May20   0:00 [ext4-rsv-conver]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root         410  0.0  0.2  51612 11096 ?        -    May20   0:02 /lib/systemd/systemd-journald
+root           -  0.0    -      -     - -        S<s  May20   0:02 -
+root         431  0.0  0.1  23536  6164 ?        -    May20   0:00 /lib/systemd/systemd-udevd
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+root         436  0.0  0.0 150668   272 ?        -    May20   0:00 vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+systemd+     603  0.0  0.2  24132  9772 ?        -    May20   0:01 /lib/systemd/systemd-resolved
+systemd+       -  0.0    -      -     - -        Ss   May20   0:01 -
+systemd+     604  0.0  0.1  90220  4508 ?        -    May20   0:00 /lib/systemd/systemd-timesyncd
+systemd+       -  0.0    -      -     - -        Ssl  May20   0:00 -
+systemd+       -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         623  0.0  0.1   8304  4132 ?        -    May20   0:00 /usr/sbin/haveged --Foreground --verbose=1 -w 1024
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+root         625  0.0  0.2  50144  7980 ?        -    May20   0:00 /usr/bin/VGAuthService
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+root         628  0.0  0.1 313308  6712 ?        -    May20   1:41 /usr/bin/vmtoolsd
+root           -  0.0    -      -     - -        Ssl  May20   1:37 -
+root           -  0.0    -      -     - -        Ssl  May20   0:04 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May21   0:00 -
+root         634  0.0  0.1 241884  7784 ?        -    May20   0:01 /usr/lib/accountsservice/accounts-daemon
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:01 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         635  0.0  0.0   2548   768 ?        -    May20   0:01 /usr/sbin/acpid
+root           -  0.0    -      -     - -        Ss   May20   0:01 -
+avahi        641  0.0  0.0   8532  2968 ?        -    May20   0:00 avahi-daemon: running [ubuntu.local]
+avahi          -  0.0    -      -     - -        Ss   May20   0:00 -
+root         642  0.0  0.1   8464  4232 ?        -    May20   0:00 /usr/lib/bluetooth/bluetoothd
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+root         645  0.0  0.0   9420  2856 ?        -    May20   0:00 /usr/sbin/cron -f
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+message+     647  0.0  0.1   9240  5564 ?        -    May20   0:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+message+       -  0.0    -      -     - -        Ss   May20   0:05 -
+root         648  0.0  0.3 264248 13912 ?        -    May20   0:04 /usr/sbin/NetworkManager --no-daemon
+root           -  0.0    -      -     - -        Ssl  May20   0:02 -
+root           -  0.0    -      -     - -        Ssl  May20   0:01 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         656  0.0  0.0  81964  3380 ?        -    May20   0:04 /usr/sbin/irqbalance --foreground
+root           -  0.0    -      -     - -        Ssl  May20   0:04 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         660  0.0  0.2 239236  9816 ?        -    May20   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         674  0.0  0.1  16768  6320 ?        -    May20   0:00 /lib/systemd/systemd-logind
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+root         681  0.0  0.2 394876  9412 ?        -    May20   0:00 /usr/lib/udisks2/udisksd
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         684  0.0  0.0  13684  3360 ?        -    May20   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root           -  0.0    -      -     - -        Ss   May20   0:00 -
+avahi        691  0.0  0.0   8348   296 ?        -    May20   0:00 avahi-daemon: chroot helper
+avahi          -  0.0    -      -     - -        S    May20   0:00 -
+root         746  0.0  0.1 314468  6560 ?        -    May20   0:00 /usr/sbin/ModemManager
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         756  0.0  0.3 110512 12744 ?        -    May20   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         763  0.0  0.1 136748  6792 ?        -    May20   0:00 /usr/bin/sddm
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         803  0.1  2.2 361940 88804 tty1     -    May20   3:01 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{adb9dbf9-e901-4390-a18e-ae03a90fb45b} -background none -noreset -displayfd 17 -seat seat0 vt1
+root           -  0.1    -      -     - -        Ssl+ May20   2:39 -
+root           -  0.0    -      -     - -        Ssl+ May20   0:21 -
+whoopsie     819  0.0  0.2 399056 10588 ?        -    May20   0:00 /usr/bin/whoopsie -f
+whoopsie       -  0.0    -      -     - -        Ssl  May20   0:00 -
+whoopsie       -  0.0    -      -     - -        Ssl  May20   0:00 -
+whoopsie       -  0.0    -      -     - -        Ssl  May20   0:00 -
+kernoops     822  0.0  0.0  11260   244 ?        -    May20   0:02 /usr/sbin/kerneloops --test
+kernoops       -  0.0    -      -     - -        Ss   May20   0:02 -
+kernoops     834  0.0  0.0  11260   444 ?        -    May20   0:02 /usr/sbin/kerneloops
+kernoops       -  0.0    -      -     - -        Ss   May20   0:02 -
+rtkit        887  0.0  0.0 152936  2588 ?        -    May20   0:01 /usr/libexec/rtkit-daemon
+rtkit          -  0.0    -      -     - -        SNsl May20   0:00 -
+rtkit          -  0.0    -      -     - -        Ssl  May20   0:00 -
+rtkit          -  0.0    -      -     - -        SNsl May20   0:00 -
+root         897  0.0  0.0      0     0 ?        -    May20   0:00 [krfcommd]
+root           -  0.0    -      -     - -        S<   May20   0:00 -
+root         901  0.0  0.1 252216  7244 ?        -    May20   0:00 /usr/lib/upower/upowerd
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root           -  0.0    -      -     - -        Ssl  May20   0:00 -
+root         921  0.0  0.1  53980  6452 ?        -    May20   0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-auth0633c867-a418-4b30-bf5b-8e6587a2b561 --id 1 --start /usr/bin/startplasma-x11 --user yohane
+root           -  0.0    -      -     - -        S    May20   0:00 -
+yohane       923  0.0  0.1  18452  6680 ?        -    May20   0:00 /lib/systemd/systemd --user LANG=en_US.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin NOTIFY_SOCKET=/run/systemd/notify HOME=/home/yohane LOGNAME=yohane USER=yohane SHELL=/bin/bash INVOCATION_ID=8a073009e94d4c4496162d81ee3e5c6e JOURNAL_STREAM=8:41827 XDG_RUNTIME_DIR=/run/user/1000
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane       924  0.0  0.0 103092  1056 ?        -    May20   0:00 (sd-pam)
+yohane         -  0.0    -      -     - -        S    May20   0:00 -
+yohane       929  0.0  0.2 1146476 8048 ?        -    May20   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus NOTIFY_SOCKET=/run/user/1000/systemd/notify MANAGERPID=923 LISTEN_PID=929 LISTEN_FDS=1 LISTEN_FDNAMES=pulseaudio.socket INVOCATION_ID=0131027f7db8453eb3d2791064a7c522 JOURNAL_STREAM=8:41922
+yohane         -  0.0    -      -     - -        S<sl May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane       932  0.0  0.1   8100  4236 ?        -    May20   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus MANAGERPID=923 LISTEN_PID=932 LISTEN_FDS=1 LISTEN_FDNAMES=dbus.socket INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad JOURNAL_STREAM=8:41969
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane       935  0.0  0.2 275340 11604 ?        -    May20   0:00 /usr/bin/kwalletd5 --pam-login 7 8 DESKTOP_SESSION=plasma DISPLAY=:0 PATH=/bin:/usr/bin XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XDG_SESSION_ID=3 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane       937  0.0  0.1 125524  5100 ?        -    May20   0:00 /usr/bin/startplasma-x11 USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane       979  0.0  0.0   6040    36 ?        -    May20   0:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/startplasma-x11
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane       998  0.0  0.0   2412    40 ?        -    May20   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit --kded +kcminit_startup
+yohane         -  0.0    -      -     - -        S    May20   0:00 -
+yohane      1000  0.0  0.1  91784  5464 ?        -    May20   0:00 kdeinit5: Running...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      1
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane      1002  0.0  0.2 274396 11492 ?        -    May20   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1005  0.0  0.9 922876 36744 ?        -    May20   0:14 kded5 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 KDED_STARTED_BY_KDEINIT=1
+yohane         -  0.0    -      -     - -        Sl   May20   0:08 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:04 -
+yohane      1019  0.0  0.3 542068 12232 ?        -    May20   0:01 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf XDG_CURRENT_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 DISPLAY=:0 XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma KDE_SESSION_UID=1000 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_ID=3 JOURNAL_STREAM=8:41969 KDE_FULL_SESSION=true XDG_SEAT=seat0 IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf SSH_AGENT_PID=979 INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=session KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 MANAGERPID=923 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1020  0.0  0.2 279252 10600 ?        -    May20   0:01 /usr/bin/kaccess DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 GTK_RC_FILES=/etc/gtk/gtkrc:/home/yohane/.gtkrc:/home/yohane/.config/gtkrc GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/yohane/.gtkrc-2.0:/home/yohane/.config/gtkrc-2.0
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1023  0.0  0.1 235920  7348 ?        -    May20   0:00 /usr/bin/plasma_session USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1032  0.0  0.3 276660 14824 ?        -    May20   0:01 /usr/bin/ksmserver USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1034  0.0  0.2 274240  9340 ?        -    May20   0:01 /usr/bin/kglobalaccel5 SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf XDG_CURRENT_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 DISPLAY=:0 XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma KDE_SESSION_UID=1000 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_ID=3 JOURNAL_STREAM=8:41969 KDE_FULL_SESSION=true XDG_SEAT=seat0 IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf SSH_AGENT_PID=979 INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=session KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 MANAGERPID=923 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1043  0.0  0.0 156100  3816 ?        -    May20   0:00 /usr/libexec/dconf-service SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf XDG_CURRENT_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 DISPLAY=:0 XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma KDE_SESSION_UID=1000 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_ID=3 JOURNAL_STREAM=8:41969 KDE_FULL_SESSION=true XDG_SEAT=seat0 IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf SSH_AGENT_PID=979 INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=session KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 MANAGERPID=923 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1048  0.1  1.1 3014384 47064 ?       -    May20   3:14 /usr/bin/kwin_x11 -session 10e9d7756e000164784535500000151630007_1648447134_132018 USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.1    -      -     - -        Rl   May20   2:48 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:25 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1054  0.0  0.1 233624  6980 ?        -    May20   0:00 /usr/bin/xembedsniproxy USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1057  0.0  0.3 425792 12088 ?        -    May20   0:00 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1060  0.0  0.2 268665788 10908 ?     -    May20   0:00 /usr/bin/baloo_file USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        SNl  May20   0:00 -
+yohane         -  0.0    -      -     - -        SNl  May20   0:00 -
+yohane      1062  0.6  5.3 1868432 214716 ?      -    May20  13:18 /usr/bin/plasmashell USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.6    -      -     - -        Sl   May20  12:55 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:09 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane      1072  0.0  0.6 302428 27500 ?        -    May20   1:52 /usr/bin/vmtoolsd -n vmusr --blockFd 3 USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   1:52 -
+yohane         -  0.0    -      -     - -        Sl   00:07   0:00 -
+yohane      1076  0.0  0.3 354520 12536 ?        -    May20   0:06 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:04 -
+yohane      1078  0.0  0.2 358076 11704 ?        -    May20   0:06 /usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:04 -
+yohane      1081  0.0  0.0   7708  2880 ?        -    May20   0:00 /usr/bin/xsettingsd DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 KDED_STARTED_BY_KDEINIT=1
+yohane         -  0.0    -      -     - -        S    May20   0:00 -
+yohane      1085  0.0  0.1 232948  7508 ?        -    May20   0:00 /usr/bin/gmenudbusmenuproxy USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1132  0.0  0.2 224856  9864 ?        -    May20   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf XDG_CURRENT_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 DISPLAY=:0 XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma KDE_SESSION_UID=1000 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_ID=3 JOURNAL_STREAM=8:41969 KDE_FULL_SESSION=true XDG_SEAT=seat0 IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf SSH_AGENT_PID=979 INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=session KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 MANAGERPID=923 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1136  0.0  1.1 472208 46500 ?        -    May20   1:11 /usr/bin/konsole -session 10e9d7756e000164784552300000011190012_1648447134_124443 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 GTK_RC_FILES=/etc/gtk/gtkrc:/home/yohane/.gtkrc:/home/yohane/.config/gtkrc GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/yohane/.gtkrc-2.0:/home/yohane/.config/gtkrc-2.0 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   1:06 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:04 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1139  0.0  0.1 308952  6312 ?        -    May20   0:00 /usr/libexec/at-spi-bus-launcher HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=e4aa6afb354242eb844da334284cf2e1 JOURNAL_STREAM=8:43440
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane      1144  0.0  0.0   7244  3492 ?        -    May20   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3 HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=e4aa6afb354242eb844da334284cf2e1 JOURNAL_STREAM=8:43440
+yohane         -  0.0    -      -     - -        S    May20   0:00 -
+yohane      1151  0.0  0.0 310628  3284 ?        -    May20   0:00 /usr/libexec/geoclue-2.0/demos/agent USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1153  0.0  0.3 403568 13964 ?        -    May20   0:01 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1183  0.0  0.1 162832  5500 ?        -    May20   0:01 /usr/libexec/at-spi2-registryd --use-gnome-session SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-PoCy8nvaDp,guid=f670b0af835d1da5e49601ca62414ed1 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_CURRENT_DESKTOP=KDE XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 DISPLAY=:0 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 KDE_SESSION_UID=1000 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop JOURNAL_STREAM=8:43440 XDG_SESSION_ID=3 XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SEAT=seat0 KDE_FULL_SESSION=true IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus INVOCATION_ID=e4aa6afb354242eb844da334284cf2e1 SSH_AGENT_PID=979 XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=accessibility KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane MANAGERPID=923 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane      1205  0.0  0.1  10880  4332 pts/1    -    May20   0:00 /bin/bash COLORFGBG=0;15 COLORTERM=truecolor DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/yohane/.gtkrc-2.0:/home/yohane/.config/gtkrc-2.0 GTK_RC_FILES=/etc/gtk/gtkrc:/home/yohane/.gtkrc:/home/yohane/.config/gtkrc HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 KONSOLE_DBUS_SERVICE=:1.35 KONSOLE_DBUS_SESSION=/Sessions/1 KONSOLE_VERSION=191203 LANG=en_US.UTF-8 LANGUAGE= LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PROFILEHOME= PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHELL_SESSION_ID=a38777166781445eaf68c92a60a54b0f SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TERM=xterm-256color USER=yohane WINDOWID=48234503 XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane      1214  0.0  0.0  43992  3432 ?        -    May20   0:00 /usr/lib/bluetooth/obexd HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=af4bfa8bdaef43f79e3eb440d8965b78 JOURNAL_STREAM=8:43685
+yohane         -  0.0    -      -     - -        Ss   May20   0:00 -
+yohane      1244  0.0  0.1  92080  4548 ?        -    May20   0:00 file.so [kdeinit5] file local:/run/user/1000/klauncherIRulHG.1.slave-socket local:/run/user/1000/kded5jcSGlS.1.slave-socket RulHG.1.slave-socket local:/run/user/1000/kded5jcSGlS.1.slave-socket                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 1
+yohane         -  0.0    -      -     - -        S    May20   0:00 -
+yohane      7553  0.0  0.1 388224  6940 ?        -    May20   0:00 /usr/libexec/xdg-desktop-portal HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=d62e2018c56b43cc8e2ad4e91066f3ba JOURNAL_STREAM=8:56769
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane      7557  0.0  0.1 391984  4852 ?        -    May20   0:00 /usr/libexec/xdg-document-portal HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=e0a577eac8c54a09b8fb01d223edc903 JOURNAL_STREAM=8:56815
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane      7560  0.0  0.0 235596  3132 ?        -    May20   0:00 /usr/libexec/xdg-permission-store HOME=/home/yohane LANG=en_US.UTF-8 LOGNAME=yohane PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yohane XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 IM_CONFIG_PHASE=1 KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PWD=/home/yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 _=/usr/bin/dbus-update-activation-environment MANAGERPID=923 INVOCATION_ID=91abcd1c37454a2fba0ff18ac640f70d JOURNAL_STREAM=8:56857
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane         -  0.0    -      -     - -        Ssl  May20   0:00 -
+yohane      7572  0.0  0.7 491440 29532 ?        -    May20   0:01 /usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde SHELL=/bin/bash DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf XDG_CURRENT_DESKTOP=KDE XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 DISPLAY=:0 XDG_RUNTIME_DIR=/run/user/1000 QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 DESKTOP_SESSION=plasma KDE_SESSION_UID=1000 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_VTNR=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XCURSOR_THEME=breeze_cursors QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_ID=3 JOURNAL_STREAM=8:41969 KDE_FULL_SESSION=true XDG_SEAT=seat0 IM_CONFIG_PHASE=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=5b17796348e760103b32395162414ecf SSH_AGENT_PID=979 INVOCATION_ID=2d6dcbf753af457aaed6769ab169b6ad XDG_SESSION_CLASS=user XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XAUTHORITY=/home/yohane/.Xauthority USER=yohane DBUS_STARTER_BUS_TYPE=session KDE_SESSION_VERSION=5 SHLVL=0 PWD=/home/yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket LANG=en_US.UTF-8 MANAGERPID=923 _=/usr/bin/dbus-update-activation-environment XDG_SESSION_DESKTOP=KDE XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings HOME=/home/yohane LOGNAME=yohane
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane     11693  0.0  1.1 605832 47264 ?        -    May20   0:10 /usr/bin/dolphin /home/yohane USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 DESKTOP_STARTUP_ID=ubuntu;1648452634;86465;1062_TIME5465384
+yohane         -  0.0    -      -     - -        Sl   May20   0:09 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May20   0:00 -
+root       23228  0.0  0.0      0     0 ?        -    May20   0:00 [xfsalloc]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root       23229  0.0  0.0      0     0 ?        -    May20   0:00 [xfs_mru_cache]
+root           -  0.0    -      -     - -        I<   May20   0:00 -
+root       23232  0.0  0.0      0     0 ?        -    May20   0:00 [jfsIO]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root       23233  0.0  0.0      0     0 ?        -    May20   0:00 [jfsCommit]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root       23234  0.0  0.0      0     0 ?        -    May20   0:00 [jfsCommit]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+root       23235  0.0  0.0      0     0 ?        -    May20   0:00 [jfsSync]
+root           -  0.0    -      -     - -        S    May20   0:00 -
+yohane     43933  0.7 12.7 5515584 507844 ?      -    May21   3:33 /usr/lib/firefox/firefox KDE_FULL_SESSION=true USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 KDE_SESSION_VERSION=5 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane QT_AUTO_SCREEN_SCALE_FACTOR=0 XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 XCURSOR_THEME=breeze_cursors DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 MOZ_APP_LAUNCHER=/usr/bin/firefox GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop KDE_SESSION_UID=1000 MOZ_ASSUME_USER_NS=1 NO_AT_BRIDGE=1 MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_LAUNCHED_CHILD=1 MOZ_APP_SILENT_START= mesa_glthread=false __GL_ALLOW_FXAA_USAGE=0 XRE_PROFILE_PATH=/home/yohane/.mozilla/firefox/b95pwcf1.default-release XRE_PROFILE_LOCAL_PATH=/home/yohane/.cache/mozilla/firefox/b95pwcf1.default-release XRE_START_OFFLINE= XUL_APP_FILE= XRE_BINARY_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= MOZ_APP_RESTART=1
+yohane         -  0.2    -      -     - -        Sl   May21   1:06 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:21 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:09 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:08 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:04 -
+yohane         -  0.1    -      -     - -        Sl   May21   0:29 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:06 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:12 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:14 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:14 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:05 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   00:28   0:00 -
+yohane         -  0.0    -      -     - -        Sl   00:31   0:00 -
+yohane     44002  0.0  2.3 2404816 93452 ?       -    May21   0:01 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44051  0.0  1.9 2400452 76228 ?       -    May21   0:00 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 4871 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44084  0.0  3.9 2651768 157392 ?      -    May21   0:18 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 4871 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:12 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44123  0.0  2.7 2504496 109228 ?      -    May21   0:20 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 5727 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:11 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:03 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:04 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44245  0.0  4.6 2786284 185124 ?      -    May21   0:23 /usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:13 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:03 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:04 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44248  0.0  2.4 2460444 95708 ?       -    May21   0:02 /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44281  0.0  2.5 2475696 100632 ?      -    May21   0:01 /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44329  0.0  1.9 2397904 76764 ?       -    May21   0:00 /usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44373  0.1  3.4 2525920 139172 ?      -    May21   0:37 /usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:24 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:08 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     44403  0.0  2.3 2464764 92752 ?       -    May21   0:17 /usr/lib/firefox/firefox -contentproc -childID 15 -isForBrowser -prefsLen 6203 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:10 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:03 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     54545  0.1  2.8 2499200 112724 ?      -    May21   0:34 /usr/lib/firefox/firefox -contentproc -childID 17 -isForBrowser -prefsLen 9258 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.1    -      -     - -        Sl   May21   0:26 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:03 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     54580  0.0  2.3 2466224 94808 ?       -    May21   0:11 /usr/lib/firefox/firefox -contentproc -childID 18 -isForBrowser -prefsLen 9258 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:06 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:02 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     54754  0.0  1.3 2369592 53720 ?       -    May21   0:00 /usr/lib/firefox/firefox -contentproc -childID 22 -isForBrowser -prefsLen 9258 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     54774  0.0  1.4 2369596 58824 ?       -    May21   0:00 /usr/lib/firefox/firefox -contentproc -childID 23 -isForBrowser -prefsLen 9258 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     54800  0.0  1.3 2369592 55224 ?       -    May21   0:00 /usr/lib/firefox/firefox -contentproc -childID 24 -isForBrowser -prefsLen 9305 -prefMapSize 246341 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 43933 true tab DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=gtk-im-context-simple HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MALLOC_OPTIONS=r MESA_GLSL_CACHE_DIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_HEADLESS=1 MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=11476395008 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TMPDIR=/tmp/Temp-1d8b6183-5239-43dc-98a2-df94c15b06e2 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     55913  0.0  2.0 612928 82544 ?        -    May21   0:09 /usr/bin/dolphin USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 DESKTOP_STARTUP_ID=ubuntu;1649055649;104802;1062_TIME111257861
+yohane         -  0.0    -      -     - -        Sl   May21   0:08 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+root       61982  0.0  2.4 462292 97340 ?        -    May21   0:03 /usr/libexec/fwupd/fwupd
+root           -  0.0    -      -     - -        Ssl  May21   0:02 -
+root           -  0.0    -      -     - -        Ssl  May21   0:00 -
+root           -  0.0    -      -     - -        Ssl  May21   0:00 -
+root           -  0.0    -      -     - -        Ssl  May21   0:00 -
+root           -  0.0    -      -     - -        Ssl  May21   0:00 -
+yohane     62275  0.0  0.2 154068 10064 ?        -    May21   0:10 /usr/lib/x86_64-linux-gnu/libexec/kf5/kio_http_cache_cleaner DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/tmp/xauth-1000-_0 XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 GTK_RC_FILES=/etc/gtk/gtkrc:/home/yohane/.gtkrc:/home/yohane/.config/gtkrc GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/yohane/.gtkrc-2.0:/home/yohane/.config/gtkrc-2.0 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032
+yohane         -  0.0    -      -     - -        Sl   May21   0:10 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     63492  0.0  1.5 442376 61796 ?        -    May21   0:02 /usr/bin/konsole USER=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=979 SHLVL=0 HOME=/home/yohane DESKTOP_SESSION=plasma XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yohane XDG_SESSION_CLASS=user XDG_SESSION_ID=3 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=en_US.UTF-8 XDG_CURRENT_DESKTOP=KDE XDG_SESSION_DESKTOP=KDE XAUTHORITY=/home/yohane/.Xauthority SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL=/bin/bash QT_ACCESSIBILITY=1 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_VTNR=1 PWD=/home/yohane XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; XCURSOR_THEME=breeze_cursors QT_AUTO_SCREEN_SCALE_FACTOR=0 KDE_FULL_SESSION=true KDE_SESSION_VERSION=5 KDE_SESSION_UID=1000 SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 DESKTOP_STARTUP_ID=ubuntu;1649059319;19078;1062_TIME114927987
+yohane         -  0.0    -      -     - -        Sl   May21   0:01 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     63495  0.0  0.0  10616  3712 pts/2    -    May21   0:00 /bin/bash COLORFGBG=0;15 COLORTERM=truecolor DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 KONSOLE_DBUS_SERVICE=:1.91 KONSOLE_DBUS_SESSION=/Sessions/1 KONSOLE_DBUS_WINDOW=/Windows/1 KONSOLE_VERSION=191203 LANG=en_US.UTF-8 LANGUAGE= LOGNAME=yohane PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PROFILEHOME= PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHELL_SESSION_ID=c991327d89d64f9aa2a983ab267bc0c0 SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 TERM=xterm-256color USER=yohane WINDOWID=69206023 XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1
+yohane         -  0.0    -      -     - -        Ss+  May21   0:00 -
+yohane     66121  0.0  0.2  92160  8840 ?        -    May21   0:00 file.so [kdeinit5] file local:/run/user/1000/klauncherIRulHG.1.slave-socket local:/run/user/1000/dolphinvUbpCy.14.slave-socket RulHG.1.slave-socket local:/run/user/1000/dolphinvUbpCy.14.slave-socket                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              1
+yohane         -  0.0    -      -     - -        S    May21   0:00 -
+yohane     69633  0.0  0.2 167776 10768 ?        -    May21   0:00 trash.so [kdeinit5] trash local:/run/user/1000/klauncherIRulHG.1.slave-socket local:/run/user/1000/dolphinvdYEOi.18.slave-socket rIRulHG.1.slave-socket local:/run/user/1000/dolphinvdYEOi.18.slave-socket                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            1
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane     70196  0.0  0.9 191924 37968 ?        -    May21   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220322144853 -prefsLen 9372 -prefMapSize 246341 -appDir /usr/lib/firefox/browser 43933 true socket DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=plasma DISPLAY=:0 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 HOME=/home/yohane KDE_FULL_SESSION=true KDE_SESSION_UID=1000 KDE_SESSION_VERSION=5 LANG=en_US.UTF-8 LD_LIBRARY_PATH=/usr/lib/firefox LD_PRELOAD=libmozsandbox.so LOGNAME=yohane MOZ_APP_LAUNCHER=/usr/bin/firefox MOZ_APP_RESTART=1 MOZ_APP_SILENT_START= MOZ_ASSUME_USER_NS=1 MOZ_CRASHREPORTER_DATA_DIRECTORY=/home/yohane/.mozilla/firefox/Crash Reports MOZ_CRASHREPORTER_EVENTS_DIRECTORY=/home/yohane/.mozilla/firefox/b95pwcf1.default-release/crashes/events MOZ_CRASHREPORTER_PING_DIRECTORY=/home/yohane/.mozilla/firefox/Pending Pings MOZ_CRASHREPORTER_RESTART_ARG_0=/usr/bin/firefox MOZ_CRASHREPORTER_RESTART_ARG_1= MOZ_CRASHREPORTER_STRINGS_OVERRIDE=/usr/lib/firefox/browser/crashreporter-override.ini MOZ_LAUNCHED_CHILD= MOZ_PROFILER_STARTUP= MOZ_SANDBOXED=1 MOZ_SANDBOX_USE_CHROOT=1402653184 NO_AT_BRIDGE=1 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yohane QT_ACCESSIBILITY=1 QT_AUTO_SCREEN_SCALE_FACTOR=0 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=979 SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 USER=yohane XAUTHORITY=/home/yohane/.Xauthority XCURSOR_THEME=breeze_cursors XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_CURRENT_DESKTOP=KDE XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 XDG_SESSION_CLASS=user XDG_SESSION_DESKTOP=KDE XDG_SESSION_ID=3 XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XRE_BINARY_PATH= XRE_PROFILE_LOCAL_PATH= XRE_PROFILE_PATH= XRE_RESTARTED_BY_PROFILE_MANAGER= XRE_START_OFFLINE= XUL_APP_FILE= __GL_ALLOW_FXAA_USAGE=0 mesa_glthread=false
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+yohane         -  0.0    -      -     - -        Sl   May21   0:00 -
+root       88475  0.0  0.0      0     0 ?        -    May21   0:01 [kworker/0:2-events]
+root           -  0.0    -      -     - -        I    May21   0:01 -
+root       88476  0.0  0.0      0     0 ?        -    May21   0:02 [kworker/1:0-events]
+root           -  0.0    -      -     - -        I    May21   0:02 -
+root       89812  0.0  0.0      0     0 ?        -    May21   0:01 [kworker/u256:2-events_power_efficient]
+root           -  0.0    -      -     - -        I    May21   0:01 -
+root       91623  0.0  0.0      0     0 ?        -    00:07   0:00 [kworker/1:1-cgroup_destroy]
+root           -  0.0    -      -     - -        I    00:07   0:00 -
+root       91650  0.0  0.0      0     0 ?        -    00:07   0:00 [kworker/u257:2-hci0]
+root           -  0.0    -      -     - -        I<   00:07   0:00 -
+root       91683  0.0  0.1  28568  7484 ?        -    00:07   0:00 /usr/sbin/cupsd -l
+root           -  0.0    -      -     - -        Ss   00:07   0:00 -
+root       91684  0.0  0.2 178392  9572 ?        -    00:07   0:00 /usr/sbin/cups-browsed
+root           -  0.0    -      -     - -        Ssl  00:07   0:00 -
+root           -  0.0    -      -     - -        Ssl  00:07   0:00 -
+root           -  0.0    -      -     - -        Ssl  00:07   0:00 -
+snort      91742  0.0  1.9 535500 79636 ?        -    00:07   0:00 /usr/sbin/snort -m 027 -D -d -l /var/log/snort -u snort -g snort -c /etc/snort/snort.conf -S HOME_NET=[192.168.146.0/24] -i ens33
+snort          -  0.0    -      -     - -        Ssl  00:07   0:00 -
+snort          -  0.0    -      -     - -        Ssl  00:07   0:00 -
+root       92129  0.0  0.0      0     0 ?        -    00:08   0:00 [kworker/u256:1-events_unbound]
+root           -  0.0    -      -     - -        I    00:08   0:00 -
+syslog    106850  0.0  0.1 224352  4032 ?        -    00:11   0:00 /usr/sbin/rsyslogd -n -iNONE
+syslog         -  0.0    -      -     - -        Ssl  00:11   0:00 -
+syslog         -  0.0    -      -     - -        Ssl  00:11   0:00 -
+syslog         -  0.0    -      -     - -        Ssl  00:11   0:00 -
+syslog         -  0.0    -      -     - -        Ssl  00:11   0:00 -
+root      108326  0.0  0.4  32356 17876 ?        -    00:11   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root           -  0.0    -      -     - -        Ss   00:11   0:00 -
+root      121132  0.0  0.0      0     0 ?        -    00:17   0:00 [kworker/0:0-events]
+root           -  0.0    -      -     - -        I    00:17   0:00 -
+root      121547  0.0  0.0      0     0 ?        -    00:30   0:00 [kworker/u256:0-events_unbound]
+root           -  0.0    -      -     - -        I    00:30   0:00 -
+yohane    121552  0.0  0.0  11604  3352 pts/1    -    00:31   0:00 ps auxwwem SHELL=/bin/bash SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1032,unix/ubuntu:/tmp/.ICE-unix/1032 WINDOWID=48234503 QT_ACCESSIBILITY=1 QT_SCREEN_SCALE_FACTORS=Virtual1=1.5;Virtual2=1.5;Virtual3=1.5;Virtual4=1.5;Virtual5=1.5;Virtual6=1.5;Virtual7=1.5;Virtual8=1.5; COLORTERM=truecolor XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1 LANGUAGE= SSH_AUTH_SOCK=/tmp/ssh-RXHVvZ5alVON/agent.937 SHELL_SESSION_ID=a38777166781445eaf68c92a60a54b0f DESKTOP_SESSION=plasma SSH_AGENT_PID=979 GTK_RC_FILES=/etc/gtk/gtkrc:/home/yohane/.gtkrc:/home/yohane/.config/gtkrc XDG_SEAT=seat0 PWD=/home/yohane XDG_SESSION_DESKTOP=KDE LOGNAME=yohane XDG_SESSION_TYPE=x11 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XAUTHORITY=/tmp/xauth-1000-_0 GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/yohane/.gtkrc-2.0:/home/yohane/.config/gtkrc-2.0 HOME=/home/yohane LANG=en_US.UTF-8 LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: XDG_CURRENT_DESKTOP=KDE KONSOLE_DBUS_SERVICE=:1.35 KONSOLE_DBUS_SESSION=/Sessions/1 PROFILEHOME= XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0 KONSOLE_VERSION=191203 KDE_SESSION_UID=1000 LESSCLOSE=/usr/bin/lesspipe %s %s XDG_SESSION_CLASS=user TERM=xterm-256color LESSOPEN=| /usr/bin/lesspipe %s USER=yohane COLORFGBG=0;15 KDE_SESSION_VERSION=5 PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket DISPLAY=:0 SHLVL=1 XDG_VTNR=1 XDG_SESSION_ID=3 XDG_RUNTIME_DIR=/run/user/1000 QT_AUTO_SCREEN_SCALE_FACTOR=0 XCURSOR_THEME=breeze_cursors XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop KDE_FULL_SESSION=true PATH=/home/yohane/.local/bin/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus OLDPWD=/home/yohane/pcaps _=/usr/bin/ps
+yohane         -  0.0    -      -     - -        R+   00:31   0:00 -
